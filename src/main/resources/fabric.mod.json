@@ -3,15 +3,12 @@
 	"id": "newtools",
 	"version": "${version}",
 	"name": "newtools",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is an example of new tools mod!",
 	"authors": [
-		"Me!"
+		"Troxtrunks"
 	],
-	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
-	},
-	"license": "CC0-1.0",
+
+	"license": "MIT",
 	"icon": "assets/newtools/icon.png",
 	"environment": "*",
 	"entrypoints": {
